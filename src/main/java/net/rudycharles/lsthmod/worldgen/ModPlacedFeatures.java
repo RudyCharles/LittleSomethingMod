@@ -1,4 +1,4 @@
-package net.rudycharles.worldgen;
+package net.rudycharles.lsthmod.worldgen;
 
 import net.minecraft.core.Holder;
 import net.minecraft.core.HolderGetter;
